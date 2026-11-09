@@ -1,0 +1,1 @@
+/**  # Classe para mini-componentes repetitivos */

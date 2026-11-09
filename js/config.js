@@ -1,0 +1,1 @@
+/* Constantes Globais, chave de API, configurações * */

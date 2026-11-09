@@ -1,0 +1,1 @@
+/* Inicializador do projeto (Script principal)*/
